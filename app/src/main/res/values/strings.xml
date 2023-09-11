@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="title">Calculator App</string>
+    <string name="operasi"> 500 x 120</string>
+    <string name="hasil">60.000</string>
+    <string name="Angka0">0</string>
+    <String name="Angka1">1</String>
+    <String name="Angka2">2</String>
+    <String name="Angka3">3</String>
+    <String name="Angka4">4</String>
+    <String name="Angka5">5</String>
+    <string name="Angka6">6</string>
+    <string name="Angka7">7</string>
+    <string name="Angka8">8</string>
+    <string name="Angka9">9</string>
+    <string name="simbol1">+</string>
+    <string name="simbol2">x</string>
+    <string name="simbol3">-</string>
+    <string name="simbol4">/</string>
+    <string name="simbol5">=</string>
+</resources>
